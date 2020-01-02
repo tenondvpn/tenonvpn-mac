@@ -1,2 +1,1 @@
-# tenonvpn-mac
-tenon vpn for mac os
+lego vpn X-NG
