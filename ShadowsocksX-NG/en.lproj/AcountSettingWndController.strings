@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3ab-9C-r1q"; */
+"3ab-9C-r1q.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "ACCOUNT SETTING"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "ACCOUNT SETTING";
+
+/* Class = "NSTextFieldCell"; title = "0 Tenon"; ObjectID = "FYk-QH-HpC"; */
+"FYk-QH-HpC.title" = "0 Tenon";
+
+/* Class = "NSTextFieldCell"; title = "0.00$"; ObjectID = "GZz-eS-ZiQ"; */
+"GZz-eS-ZiQ.title" = "0.00$";
+
+/* Class = "NSTextFieldCell"; title = "account"; ObjectID = "JhL-HL-vIs"; */
+"JhL-HL-vIs.title" = "account";
+
+/* Class = "NSTextFieldCell"; title = "Private Key"; ObjectID = "Wjo-d1-bwY"; */
+"Wjo-d1-bwY.title" = "Private Key";
+
+/* Class = "NSTextFieldCell"; title = "type"; ObjectID = "X3r-gn-pl0"; */
+"X3r-gn-pl0.title" = "type";
+
+/* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "au6-b2-aXj"; */
+"au6-b2-aXj.title" = "Balance";
+
+/* Class = "NSTextFieldCell"; title = "datetime"; ObjectID = "eSJ-t3-rxa"; */
+"eSJ-t3-rxa.title" = "datetime";
+
+/* Class = "NSTextFieldCell"; title = "Account Address"; ObjectID = "hhz-eb-oQc"; */
+"hhz-eb-oQc.title" = "Account Address";
+
+/* Class = "NSTextFieldCell"; title = "Transacations"; ObjectID = "oTp-Zx-oJL"; */
+"oTp-Zx-oJL.title" = "Transacations";
+
+/* Class = "NSTextFieldCell"; title = "amount"; ObjectID = "yzR-kp-rmf"; */
+"yzR-kp-rmf.title" = "amount";
+
+"APx-uJ-9ap.title" = "Copy";
+"Jl3-zq-LbG.title" = "Copy";
+"BMl-tm-HUX.title" = "Paste";

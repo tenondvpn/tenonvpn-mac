@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="14868" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="14868"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner"/>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <tableCellView identifier="CountryChoseCell" id="LwO-PU-7vd" customClass="CountryChoseCell" customModule="ShadowsocksX_NG" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="422" height="72"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="grS-37-SMk">
+                    <rect key="frame" x="67" y="40" width="340" height="16"/>
+                    <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="Table View Cell" id="QtZ-eP-Zp9">
+                        <font key="font" metaFont="system"/>
+                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="FYV-4w-P01">
+                    <rect key="frame" x="67" y="16" width="340" height="16"/>
+                    <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="Table View Cell" id="c03-g5-3l9">
+                        <font key="font" metaFont="system"/>
+                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="swW-MK-Yo5">
+                    <rect key="frame" x="16" y="16" width="40" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="40" id="MDq-XQ-6mR"/>
+                        <constraint firstAttribute="height" constant="40" id="y2M-Ub-xHj"/>
+                    </constraints>
+                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" id="I8R-1l-o5F"/>
+                </imageView>
+            </subviews>
+            <constraints>
+                <constraint firstItem="swW-MK-Yo5" firstAttribute="top" secondItem="LwO-PU-7vd" secondAttribute="top" constant="16" id="7M6-U4-L1Y"/>
+                <constraint firstItem="swW-MK-Yo5" firstAttribute="leading" secondItem="LwO-PU-7vd" secondAttribute="leading" constant="16" id="FI3-4n-DGU"/>
+                <constraint firstAttribute="trailing" secondItem="FYV-4w-P01" secondAttribute="trailing" constant="17" id="M3Q-Kw-WTu"/>
+                <constraint firstAttribute="trailing" secondItem="grS-37-SMk" secondAttribute="trailing" constant="17" id="QUL-S5-bE3"/>
+                <constraint firstItem="FYV-4w-P01" firstAttribute="bottom" secondItem="swW-MK-Yo5" secondAttribute="bottom" id="T2u-sk-hXj"/>
+                <constraint firstItem="grS-37-SMk" firstAttribute="top" secondItem="swW-MK-Yo5" secondAttribute="top" id="dSY-fU-ZcC"/>
+                <constraint firstItem="FYV-4w-P01" firstAttribute="leading" secondItem="grS-37-SMk" secondAttribute="leading" id="fFW-LU-dcc"/>
+                <constraint firstItem="grS-37-SMk" firstAttribute="leading" secondItem="swW-MK-Yo5" secondAttribute="trailing" constant="13" id="ggZ-n5-Jlv"/>
+                <constraint firstAttribute="bottom" secondItem="swW-MK-Yo5" secondAttribute="bottom" constant="16" id="sJr-uZ-s7A"/>
+            </constraints>
+            <connections>
+                <outlet property="imgIcon" destination="swW-MK-Yo5" id="gV8-k4-XNY"/>
+                <outlet property="lbCountryName" destination="grS-37-SMk" id="t3c-pB-5AH"/>
+                <outlet property="lbNodes" destination="FYV-4w-P01" id="Ecp-L7-CjX"/>
+                <outlet property="textField" destination="grS-37-SMk" id="eee-5E-j6U"/>
+            </connections>
+            <point key="canvasLocation" x="-185" y="-13"/>
+        </tableCellView>
+    </objects>
+</document>

@@ -1,0 +1,111 @@
+
+
+
+
+/*
+ * SHARED STRINGS
+ */
+
+/*
+ * ./PACUtils.swift
+ */
+
+"PAC has been updated by latest GFW List." = "已经使用最新的 GFW List 更新PAC";
+
+"It's failed to update PAC by User Rules." = "更新 PAC 失败";
+
+"Failed to download latest GFW List." = "下载最新的 GFW 列表失败";
+
+/*
+ * ./AppDelegate.swift
+ */
+
+"Save Diagnosis to File" = "保存诊断信息到文件";
+
+"Global Mode" = "全局模式";
+
+"Manual Mode" = "手动模式";
+
+"Auto Mode By PAC" = "PAC自动模式";
+
+"Add \(addCount) Shadowsocks Server Profile" = "已添加\(addCount)个Shadowsocks服务器配置";
+
+"Not found valid qrcode or url of shadowsocks profile" = "没有找到有效的shadowsocks配置二维码或链接";
+
+"By scan QR Code" = "通过扫描二维码";
+
+"Shadowsocks: On" = "Shadowsocks: On";
+
+"Turn Shadowsocks Off" = "关闭 Shadowsocks";
+
+"Shadowsocks: Off" = "Shadowsocks: Off";
+
+"Turn Shadowsocks On" = "打开 Shadowsocks";
+
+"Servers" = "服务器";
+
+"Servers - (No Selected)" = "服务器 - (未选择)";
+
+"Add \(addCount) Shadowsocks Server Profile" = "新增 \(addCount) 个 Shadowsocks 服务器配置";
+
+"Not found valid QRCode of shadowsocks profile" = "未找到有效的 shadowsocks 二维码";
+
+"Not found valid URL of shadowsocks profile" = "未找到有效的 shadowsocks 链接";
+
+/*
+ * ./HTTPPreferencesWindowController.swift
+ */
+
+"Export Command Copied." = "Export 命令已复制至剪贴板";
+
+"Timeout" = "超时";
+
+/*
+ * ./ShadowsocksX-NG/ShareServerProfilesWindowController.swift
+ */
+
+"Save All Server URLs To File" = "保存所有服务器 URL 到文件";
+
+"Save QRCode As File" = "保存 QRCode 为文件";
+
+/*
+ * ./ShadowsocksX-NG/ImportWindowController.swift
+ */
+
+"Success to add \(addCount) server." = "成功添加 \(addCount) 个服务器";
+
+"Not found valid shadowsocks server urls." = "未找到有效的shadowsocks服务器URL";
+
+/*
+ * ./ShadowsocksX-NG/PreferencesWindowController.swift
+ */
+
+"New Server" = "新建服务器";
+
+/*
+* ./ShadowsocksX-NG/TenonMainWindowsController.swift
+*/
+
+"Smarte Route" = "智能路由";
+"Tenon p2p protecting your IP and privacy." = "Tenon p2p 网络正在保护你的IP和隐私";
+"SETTINGS" = "账号设置";
+"UPGRADE" = "升级更新";
+"Already the latest version." = "已经是最新版本。";
+"ACCOUNT SETTING" = "账号设置";
+"Private Key" = "安全私钥";
+"Account Address" = "账号地址";
+"Balance" = "账户余额";
+"Transactions" = "交易记录";
+"waiting server" = "等待数据...";
+
+
+"Agent service is not supported in your country or region." = "所在国家或地区不支持代理服务";
+"Free 100M/day used up, buy tenon or use tomorrow." = "今天免费 100M 流量已经用完，购买套餐或者明天继续使用。";
+"Free 100M/day" = "";
+"Connect p2p vpn network failed." = "连接P2P网络失败!";
+"Your account is logged in elsewhere." = "你的账号在其他地方登陆.";
+"VIP due in " = "VIP ";
+"days" = " 天后到期";
+"after success reset private key, must restart program." = "账号设置完成后裔，需要重启程序";
+"copy sharing link succeeded." = "拷贝分享链接成功";
+"Decentralized VPN, safe, reliable and high speed." = "去中心化VPN，安全可靠高速。";

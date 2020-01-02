@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3ab-9C-r1q"; */
+"3ab-9C-r1q.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "ACCOUNT SETTING"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "账号设置";
+
+/* Class = "NSTextFieldCell"; title = "0 Tenon"; ObjectID = "FYk-QH-HpC"; */
+"FYk-QH-HpC.title" = "0 Tenon";
+
+/* Class = "NSTextFieldCell"; title = "0.00$"; ObjectID = "GZz-eS-ZiQ"; */
+"GZz-eS-ZiQ.title" = "0.00$";
+
+/* Class = "NSTextFieldCell"; title = "account"; ObjectID = "JhL-HL-vIs"; */
+"JhL-HL-vIs.title" = "账号";
+
+/* Class = "NSTextFieldCell"; title = "Private Key"; ObjectID = "Wjo-d1-bwY"; */
+"Wjo-d1-bwY.title" = "安全私钥";
+
+/* Class = "NSTextFieldCell"; title = "type"; ObjectID = "X3r-gn-pl0"; */
+"X3r-gn-pl0.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "au6-b2-aXj"; */
+"au6-b2-aXj.title" = "钱包余额";
+
+/* Class = "NSTextFieldCell"; title = "datetime"; ObjectID = "eSJ-t3-rxa"; */
+"eSJ-t3-rxa.title" = "交易时间";
+
+/* Class = "NSTextFieldCell"; title = "Account Address"; ObjectID = "hhz-eb-oQc"; */
+"hhz-eb-oQc.title" = "账号地址";
+
+/* Class = "NSTextFieldCell"; title = "Transacations"; ObjectID = "oTp-Zx-oJL"; */
+"oTp-Zx-oJL.title" = "交易记录";
+
+/* Class = "NSTextFieldCell"; title = "amount"; ObjectID = "yzR-kp-rmf"; */
+"yzR-kp-rmf.title" = "数量";
+
+"APx-uJ-9ap.title" = "拷贝";
+"Jl3-zq-LbG.title" = "拷贝";
+"BMl-tm-HUX.title" = "粘贴";
